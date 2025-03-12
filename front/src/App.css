@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.title {
+  padding: 1rem;
+}
+
+.sub-title {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.input{
+  width: 30%; 
+}
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 47px;
+  gap: 1rem;
+  background-color: rgb(243, 243, 243);
+}
+
+.Card {
+  box-shadow: 2px 2px 4px rgb(233, 233, 233);
+}
